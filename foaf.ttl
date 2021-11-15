@@ -27,7 +27,7 @@
    foaf:knows <users.dcc.uchile.cl/~paliaga/foaf.ttl>, <http://anakena.dcc.uchile.cl/~rstapia/foaf.ttl> , <https://users.dcc.uchile.cl/~ahogan/foaf.ttl>, <http://anakena.dcc.uchile.cl/~rstapia/sofifoaf/foaf.ttl> ;
    foaf:interest dbr:manga , dbr:anime , dbr:meme, dbr:Valorant, dbr: Semantic_Web ; 
    social:hasEnemy <http://anakena.dcc.uchile.cl/~rstapia/sofifoaf/foaf.ttl>, <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> ;
-   social:likesMovie dbr:Mulan_(1998_film) , dbr:Evangelion:_1.0_You_Are_(Not)_Alone;
+   social:likesMovie dbr:Shrek , dbr:Evangelion;
    social:hasSpiritAnimal dbr:wolf ;
    social:hasFavouritePlatonicSolid dbr:Icosaedron ;
    foaf:myersBriggs "ENTP" ;
