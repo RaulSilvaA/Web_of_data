@@ -1,0 +1,36 @@
+@base <https://raw.githubusercontent.com/RaulSilvaA/Web_of_data/main/foaf.ttl> .
+
+@prefix rw: <https://raw.githubusercontent.com/RaulSilvaA/Web_of_data/main/foaf.ttl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix social: <http://users.dcc.uchile.cl/~ahogan/social.ttl#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix wd: <http://www.wikidata.org/entity/>.
+@prefix dbr: <http://dbpedia.org/resource/>.
+
+<> a foaf:Document ;
+   dc:date "2021-11-15"^^xsd:date ;
+   dc:title "Raul's FOAF Profile"@en ;
+   foaf:primaryTopic <#rw> ;
+   dc:creator <#rw> .
+
+<#rw> a foaf:Person ;
+   rdfs:label "Raul Silva" ;
+   rdfs:comment "Estudiante feo del dcc"@es , "An ugly dcc student"@en ;
+   foaf:name "Raul Silva" ;
+   foaf:givenName "Raul" ;
+   foaf:familyName "Silva" ;
+   foaf:age 22 ; # it would be better to put date of birth to not have to update every birthday, but hey :)
+   foaf:img <https://cdn.discordapp.com/attachments/669027006909906945/909884636027555840/cheems.jpg> ;
+   foaf:knows <users.dcc.uchile.cl/~paliaga/foaf.ttl>, <http://anakena.dcc.uchile.cl/~rstapia/foaf.ttl> , <https://users.dcc.uchile.cl/~ahogan/foaf.ttl>, <http://anakena.dcc.uchile.cl/~rstapia/sofifoaf/foaf.ttl> ;
+   foaf:interest dbr:manga , dbr:anime , dbr:meme, dbr:Valorant, dbr: Semantic_Web ; 
+   social:hasEnemy <http://anakena.dcc.uchile.cl/~rstapia/sofifoaf/foaf.ttl>, <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> ;
+   social:likesMovie dbr:Mulan_(1998_film) , dbr:Evangelion:_1.0_You_Are_(Not)_Alone;
+   social:hasSpiritAnimal dbr:wolf ;
+   social:hasFavouritePlatonicSolid dbr:Icosaedron ;
+   foaf:myersBriggs "ENTP" ;
+   #adicionales
+   foaf:nick "Rauwul";
+   foaf:birthday '05-30'.
