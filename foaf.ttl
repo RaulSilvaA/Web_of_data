@@ -1,6 +1,6 @@
-@base <https://github.com/RaulSilvaA/Web_of_data/blob/main/foaf.ttl> .
+@base <https://raw.githubusercontent.com/RaulSilvaA/Web_of_data/main/foaf.ttl> .
 
-@prefix rw: <https://github.com/RaulSilvaA/Web_of_data/blob/main/foaf.ttl#> .
+@prefix rw: <https://raw.githubusercontent.com/RaulSilvaA/Web_of_data/main/foaf.ttl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
