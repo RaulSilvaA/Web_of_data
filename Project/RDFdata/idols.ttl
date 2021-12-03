@@ -17,5 +17,5 @@
 
 <#ah> a foaf:Person ;
 	 foaf:name "Seong Hyunwoo"@en;
-	 foaf:name "성현우"@kr .
-	 owl:sameAs wd:Q177220
+	 foaf:name "성현우"@kr ;
+	 owl:sameAs wd:Q177220 .
