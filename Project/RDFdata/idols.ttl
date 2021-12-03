@@ -17,6 +17,5 @@
    dc:title "Aidan's FOAF Profile"@en .
 
 wd:Q177220 a foaf:Person ;
-ex:SeongHyunwoo a wd:Q177220; 
 	 foaf:name "Seong Hyunwoo"@en;
 	 foaf:name "성현우"@kr; .
