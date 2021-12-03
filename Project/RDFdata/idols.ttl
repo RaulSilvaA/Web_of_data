@@ -1,3 +1,5 @@
+@base <https://raw.githubusercontent.com/RaulSilvaA/Web_of_data/main/Project/RDFdata/idols.ttl> .
+
 
 @base <http://ex.org/#>.
 @prefix ex: <http://ex.org/>.
@@ -11,8 +13,6 @@
 <> a ex:Document ;
    dc:date "2021-10-27"^^xsd:date ;
    dc:title "Idols Profile"@en ;
-   ex:primaryTopic <#i> ;
-   dc:creator <#i> .
 
 ex:SeongHyunwoo a wd:Q177220; 
 	 ex:name "Seong Hyunwoo"@en;
