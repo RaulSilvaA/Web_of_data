@@ -15,7 +15,10 @@
    dc:date "2021-10-27"^^xsd:date ;
    dc:title "Aidan's FOAF Profile"@en .
 
-<#ah> a foaf:Person ;
+wd:Q177220 a foaf:Person ;
 	 foaf:name "Seong Hyunwoo"@en;
-	 foaf:name "성현우"@kr ;
-	 owl:sameAs wd:Q177220 .
+	 foaf:name "성현우"@kr .
+
+wd:Q177221 a foaf:Person ;
+	 foaf:name "Seong Hyunwo"@en;
+	 foaf:name "성현우"@kr .
