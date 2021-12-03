@@ -8,6 +8,12 @@
 @prefix wd:<https://www.wikidata.org/wiki/#> .
 @prefix nm:<https://namu.wiki/w/#> .
 
+<> a ex:Document ;
+   dc:date "2021-10-27"^^xsd:date ;
+   dc:title "Idols Profile"@en ;
+   ex:primaryTopic <#i> ;
+   dc:creator <#vg> .
+
 ex:SeongHyunwoo a wd:Q177220; 
 	 ex:name "Seong Hyunwoo"@en;
 	 ex:name "성현우"@kr; 
