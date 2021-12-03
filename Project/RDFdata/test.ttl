@@ -9,6 +9,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix wd:<https://www.wikidata.org/wiki/#> .
 @prefix nm:<https://namu.wiki/w/#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
 
 
 <> a ex:Document ;
