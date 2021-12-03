@@ -1,6 +1,5 @@
 @base <https://raw.githubusercontent.com/RaulSilvaA/Web_of_data/main/Project/RDFdata/idols.ttl> .
 
-
 @base <http://ex.org/#>.
 @prefix ex: <http://ex.org/>.
 @prefix dc: <http://purl.org/dc/terms/> .
