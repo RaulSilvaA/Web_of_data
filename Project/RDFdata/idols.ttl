@@ -13,7 +13,7 @@
 
 <> a ex:Document ;
    dc:date "2021-10-27"^^xsd:date ;
-   dc:title "Idols Profile"@en ;
+   dc:title "Idols Profile"@en .
 
 ex:SeongHyunwoo a wd:Q177220; 
 	 ex:name "Seong Hyunwoo"@en;
