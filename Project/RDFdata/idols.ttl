@@ -17,7 +17,13 @@
 
 wd:Q177220 a foaf:Person ;
 	 foaf:name "Seong Hyunwoo"@en;
-	 foaf:name "성현우"@kr .
+	 foaf:name "성현우"@kr ;
+	 ex:stageName "A.M"@en; 
+	 ex:koreanStageName "에이엠"@kr; 
+	 ex:dateOfBirth "1996-12-31"^^xsd:date; 
+	 ex:country ex:SouthKorea; 
+	 ex:group wd:Q65053241; 
+	 ex:gender ex:male. 
 
 wd:Q177221 a foaf:Person ;
 	 foaf:name "Seong Hyunwo"@en;
