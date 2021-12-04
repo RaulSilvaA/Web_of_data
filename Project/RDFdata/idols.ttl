@@ -23,4 +23,182 @@ ex:SeongHyunwoo a wd:Q177220;
 	 ex:dateOfBirth "1996-12-31"^^xsd:date; 
 	 ex:country ex:SouthKorea; 
 	 ex:group wd:Q65053241; 
-	 ex:gender ex:male.
+	 ex:gender ex:male. 
+ex:JangWooyoung a wd:Q177220; 
+	 ex:name "Jang Wooyoung"@en;
+	 ex:name "장우영"@kr; 
+	 ex:stageName "Ace"@en; 
+	 ex:koreanStageName "에이스"@kr; 
+	 ex:dateOfBirth "1992-08-28"^^xsd:date; 
+	 ex:country ex:SouthKorea; 
+	 ex:group wd:Q27951748; 
+	 ex:gender ex:male. 
+ex:KwonAeji a wd:Q177220; 
+	 ex:name "Kwon Aeji"@en;
+	 ex:name "권애지"@kr; 
+	 ex:stageName "Aeji"@en; 
+	 ex:koreanStageName "애지"@kr; 
+	 ex:dateOfBirth "1999-10-25"^^xsd:date; 
+	 ex:country ex:SouthKorea; 
+	 ex:birthPlace ex:Daegu; 
+	 ex:group ex:Hashtag; 
+	 ex:gender ex:female. 
+ex:LeeAhin a wd:Q177220; 
+	 ex:name "Lee Ahin"@en;
+	 ex:name "이아인"@kr; 
+	 ex:stageName "AhIn"@en; 
+	 ex:koreanStageName "아인"@kr; 
+	 ex:dateOfBirth "1999-09-27"^^xsd:date; 
+	 ex:country ex:SouthKorea; 
+	 ex:birthPlace ex:Wonju; 
+	 ex:group ex:MOMOLAND; 
+	 ex:gender ex:female. 
+ex:GoAhra a wd:Q177220; 
+	 ex:name "Go Ahra"@en;
+	 ex:name "고아라"@kr; 
+	 ex:stageName "Ahra"@en; 
+	 ex:koreanStageName "아라"@kr; 
+	 ex:dateOfBirth "2001-02-21"^^xsd:date; 
+	 ex:country ex:SouthKorea; 
+	 ex:birthPlace ex:Yeosu; 
+	 ex:group wd:Q41253535; 
+	 ex:gender ex:female. 
+ex:ChoJayoung a wd:Q177220; 
+	 ex:name "Cho Jayoung"@en;
+	 ex:name "조자영"@kr; 
+	 ex:stageName "Ahyoung"@en; 
+	 ex:koreanStageName "아영"@kr; 
+	 ex:dateOfBirth "1991-05-26"^^xsd:date; 
+	 ex:country ex:SouthKorea; 
+	 ex:birthPlace ex:Seoul; 
+	 ex:group wd:Q492146; 
+	 ex:gender ex:female. 
+ex:KangAhyoung a wd:Q177220; 
+	 ex:name "Kang Ahyoung"@en;
+	 ex:name "강아형"@kr; 
+	 ex:stageName "Ahyung"@en; 
+	 ex:koreanStageName "아형"@kr; 
+	 ex:dateOfBirth "1996-08-27"^^xsd:date; 
+	 ex:country ex:SouthKorea; 
+	 ex:birthPlace ex:Pohang; 
+	 ex:group wd:Q37167115; 
+	 ex:gender ex:female. 
+ex:LeeYejin a wd:Q177220; 
+	 ex:name "Lee Yejin"@en;
+	 ex:name "이예진"@kr; 
+	 ex:stageName "Ailee"@en; 
+	 ex:koreanStageName "에일리"@kr; 
+	 ex:dateOfBirth "1989-05-30"^^xsd:date; 
+	 ex:country ex:SouthKorea; 
+	 ex:birthPlace ex:Denver; 
+	 ex:gender ex:female. 
+ex:KimHeejung a wd:Q177220; 
+	 ex:name "Kim Heejung"@en;
+	 ex:name "김희정"@kr; 
+	 ex:stageName "Aini"@en; 
+	 ex:koreanStageName "아이니"@kr; 
+	 ex:dateOfBirth "1991-07-13"^^xsd:date; 
+	 ex:country ex:SouthKorea; 
+	 ex:group wd:Q60994549; 
+	 ex:gender ex:female. 
+ex:HeoYoorim a wd:Q177220; 
+	 ex:name "Heo Yoorim"@en;
+	 ex:name "허유림"@kr; 
+	 ex:stageName "Aisha"@en; 
+	 ex:koreanStageName "아샤"@kr; 
+	 ex:dateOfBirth "2000-07-21"^^xsd:date; 
+	 ex:country ex:SouthKorea; 
+	 ex:group wd:Q62067345; 
+	 ex:gender ex:female. 
+ex:KimSeri a wd:Q177220; 
+	 ex:name "Kim Seri"@en;
+	 ex:name "김세리"@kr; 
+	 ex:stageName "AleXa"@en; 
+	 ex:koreanStageName "알렉사"@kr; 
+	 ex:dateOfBirth "1996-12-06"^^xsd:date; 
+	 ex:country ex:USA; 
+	 ex:gender ex:female. 
+ex:SongJoohee a wd:Q177220; 
+	 ex:name "Song Joohee"@en;
+	 ex:name "송주희"@kr; 
+	 ex:stageName "Alice"@en; 
+	 ex:koreanStageName "앨리스"@kr; 
+	 ex:dateOfBirth "1990-03-21"^^xsd:date; 
+	 ex:country ex:SouthKorea; 
+	 ex:birthPlace ex:Wonju; 
+	 ex:group wd:Q488674; 
+	 ex:gender ex:female. 
+ex:AllenMa a wd:Q177220; 
+	 ex:name "Allen Ma"@en;
+	 ex:name "앨런 마"@kr; 
+	 ex:stageName "Allen"@en; 
+	 ex:koreanStageName "앨런"@kr; 
+	 ex:dateOfBirth "1999-04-26"^^xsd:date; 
+	 ex:country ex:USA; 
+	 ex:group ex:CRAVITY; 
+	 ex:gender ex:male. 
+ex:AmberJosephineLiu a wd:Q177220; 
+	 ex:name "Amber Josephine Liu"@en;
+	 ex:name "엠버 조세핀 리우"@kr; 
+	 ex:stageName "Amber"@en; 
+	 ex:koreanStageName "엠버"@kr; 
+	 ex:dateOfBirth "1992-09-18"^^xsd:date; 
+	 ex:country ex:USA; 
+	 ex:birthPlace ex:LosAngeles; 
+	 ex:group wd:Q344286; 
+	 ex:gender ex:female. 
+ex:LeeSeoyoung a wd:Q177220; 
+	 ex:name "Lee Seoyoung"@en;
+	 ex:name "이서영"@kr; 
+	 ex:stageName "Anne"@en; 
+	 ex:koreanStageName "앤"@kr; 
+	 ex:dateOfBirth "2000-10-17"^^xsd:date; 
+	 ex:country ex:SouthKorea; 
+	 ex:group wd:Q55715778; 
+	 ex:gender ex:female. 
+ex:AnthonyLo a wd:Q177220; 
+	 ex:name "Anthony Lo"@en;
+	 ex:name "엔써니 루오"@kr; 
+	 ex:stageName "Anthony"@en; 
+	 ex:koreanStageName "엔써니"@kr; 
+	 ex:dateOfBirth "1998-03-12"^^xsd:date; 
+	 ex:country ex:China; 
+	 ex:group ex:VARSITY; 
+	 ex:gender ex:male. 
+ex:SonMnjung a wd:Q177220; 
+	 ex:name "Son Mnjung"@en;
+	 ex:name "손민정"@kr; 
+	 ex:stageName "Arang"@en; 
+	 ex:koreanStageName "아랑"@kr; 
+	 ex:dateOfBirth "2000-03-08"^^xsd:date; 
+	 ex:country ex:SouthKorea; 
+	 ex:gender ex:female. 
+ex:ParkYerim a wd:Q177220; 
+	 ex:name "Park Yerim"@en;
+	 ex:name "박예림"@kr; 
+	 ex:stageName "Arang"@en; 
+	 ex:koreanStageName "아랑"@kr; 
+	 ex:dateOfBirth "2001-01-22"^^xsd:date; 
+	 ex:country ex:SouthKorea; 
+	 ex:group wd:Q60994549; 
+	 ex:gender ex:female. 
+ex:KimSunyoung a wd:Q177220; 
+	 ex:name "Kim Sunyoung"@en;
+	 ex:name "김선영"@kr; 
+	 ex:stageName "Ari"@en; 
+	 ex:koreanStageName "아리"@kr; 
+	 ex:dateOfBirth "1994-10-23"^^xsd:date; 
+	 ex:country ex:SouthKorea; 
+	 ex:birthPlace ex:Daegu; 
+	 ex:group wd:Q12070509; 
+	 ex:gender ex:female. 
+ex:HwangNayoon a wd:Q177220; 
+	 ex:name "Hwang Nayoon"@en;
+	 ex:name "황나윤"@kr; 
+	 ex:stageName "Ari"@en; 
+	 ex:koreanStageName "아리"@kr; 
+	 ex:dateOfBirth "1999-03-30"^^xsd:date; 
+	 ex:country ex:SouthKorea; 
+	 ex:birthPlace ex:Seoul; 
+	 ex:group ex:RedSquare; 
+	 ex:gender ex:female. 
